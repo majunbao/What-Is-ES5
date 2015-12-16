@@ -1,6 +1,6 @@
 ## 你是根据什么规范版本写的这些？
 * ECMAScript 5.1 版本
-* 在这里可以发问它：[https://es5.github.io/#x8](https://es5.github.io/#x8)
+* 在这里可以访问它：[https://es5.github.io/#x8](https://es5.github.io/#x8)
 
 ## 什么是 Types ？
 * 在ECMAScript规范中操作values（值）的每个算法都有相关联的type。这些可能的value types都定义在了这个规范中。
@@ -10,20 +10,24 @@
 * 一个 ECMAScript language type 相当于 values，ECMAScript 程序员通过 ECMAScript language 可以直接操作它。
 * ECMAScript language typs 又可分为：`Undefined`，`Null`，`Boolean`，`String`，`Number`，`Object`。
 
-### 什么是 Undefined ？
+### 什么是 Undefined Type？
 * Undefined type 只有一个 value，叫做 undefined（注意开头字母是小写）。
 * 任何没有分配value 的 variable(变量) 都有一个 value 是 undefined 。
 
-### 什么是 Null ？
+### 什么是 Null Type？
 * Null type 只有一个 value，叫做 null（注意是小写）。
 
-### 什么是 Boolean ？
+### 什么是 Boolean Type？
 * Boolean type 是一个logical entity（逻辑实体），它有两个值，`true` 和 `false`。
 
-### 什么是 String ？
+### 什么是 String Type？
+* String Typs 是 set
 
-### 什么是 Number ？
+#### 什么是 set？
 
-### 什么是 Object ？
+### 什么是 Number Type？
+* Number Type 有不多不少 18437736874454810627（2^64−2^53+3） 个values。
+
+### 什么是 Object Type？
 
 ## 什么是 specification type？
