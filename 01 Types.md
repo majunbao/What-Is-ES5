@@ -7,7 +7,7 @@
 * Types又可分为：`ECMAScript language types`和`specification types`。
 
 ## 什么是 ECMAScript language types？
-* ECMAScript 相当于 values，ECMAScript 程序员通过 ECMAScript language 可以直接操作它。
+* 一个 ECMAScript language type 相当于 values，ECMAScript 程序员通过 ECMAScript language 可以直接操作它。
 * ECMAScript language typs 又可分为：`Undefined`，`Null`，`Boolean`，`String`，`Number`，`Object`。
 
 ### 什么是 Undefined ？

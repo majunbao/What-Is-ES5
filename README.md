@@ -4,6 +4,7 @@
 * ECMAScript 5.1 就是 5.1 版本的 ECMAScript Language specification（ECMAScript 语言说明）。
 * Javascript，Nodejs，V8等都是它的实现。
 
+> 在回答中，当遇到专业术语时尽量保留英文原文，这样能很好的与你阅读的其他英文资料联系起来，并且写代码时，很多方法就是直接用英语术语做方法名。相信你熟悉了这些单词后，写代码时也会得心印手。
 
 # 目录：问题与解答
 
