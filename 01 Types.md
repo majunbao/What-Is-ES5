@@ -29,12 +29,18 @@
 #### 什么是 bit？
 * bit是信息技术和网络通信的基本单元。一个 bit 只有两个 values，这些 values 通常表示为 0 或 1。bit 这个单词是 binary digit（二进制）的 portmanteau（混合词）。
 
+
 ##### 什么是 portmanteau（混合词）？
 * portmanteau 译为混合词，所谓混合词是由两个词提取他们的一部分组合成一个新的单词。例如 中国几个省份的名字就是混合词。安徽是安庆和徽州的简拼，甘肃是甘州和肃州的简拼，江苏是江宁（南京的古代名字）和苏州的简拼。
 * portmanteau 也可翻译为旅行箱。旅行箱可以打开成两个相等的部分，很形象。
-* 参考资料：[https://en.wikipedia.org/wiki/Portmanteau](https://en.wikipedia.org/wiki/Portmanteau)
+* 参考资料：[Portmanteau](https://en.wikipedia.org/wiki/Portmanteau)
 
 #### 什么是 16-bit？
+* 计算机一般在一个固定的大小内操作bit，这通常称`word`。例如 byte。
+* byte 是 Werner Buchholz在1956年创造的。他设计的计算机，最小可操作单位是byte，每个byte就是8个bit的有序序列，即2得8次方，256种可能。
+* 通常计算机最小可操作单位是8-80bit，当然也有特殊的。21世纪以来，常用的计算机是16/64-bit。
+* 16-bit 就是每个 `word` 是 16个bit，每个 `word` 都可代表65536种可能（2的16次方）。
+* 参考资料：[bit](https://en.wikipedia.org/wiki/Bit)，[16-bit](https://en.wikipedia.org/wiki/16-bit)，[Werner Buchholz](https://en.wikipedia.org/wiki/Werner_Buchholz)
 
 ### 什么是 Number Type？
 * Number Type 有不多不少 18437736874454810627（2^64−2^53+3） 个values。
@@ -42,3 +48,5 @@
 ### 什么是 Object Type？
 
 ## 什么是 specification type？
+
+一个bit的功能很少，一般只能实现开和关这么简单的功能，所以
