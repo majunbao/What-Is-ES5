@@ -21,9 +21,18 @@
 * Boolean type 是一个logical entity（逻辑实体），它有两个值，`true` 和 `false`。
 
 ### 什么是 String Type？
-* String Typs 是 set
+* String Typs 是零个或者多个 16-bit unsigned integer values (“elements”) 的 finite ordered sequences（有限命令序列）的 set（集合）。
+* 简单说 String Typs 是set（集合）。
 
-#### 什么是 set？
+#### 什么是set？
+
+#### 什么是 16-bit 或者说什么是 bit？
+* bit是信息技术和网络通信的基本单元，就好像毫米是长度单位的基本单元。一个 bit 只有两个 values，这些 values 通常表示为 0 或 1。这个 bit 单词是 binary digit（二进制）的 portmanteau（混合词）。
+
+##### 什么是 portmanteau（混合词）？
+* portmanteau 译为混合词，可简单理解为一个混合词是由两个词提取他们的一部分组合成一个新的单词。例如 中国几个省份的名字就是混合词。安徽是安庆和徽州的简拼，甘肃是甘州和肃州的简拼，江苏是江宁（南京的古代名字）和苏州的简拼。
+* portmanteau 也可翻译为旅行箱。旅行箱可以打开成两个相等的部分，很形象。
+
 
 ### 什么是 Number Type？
 * Number Type 有不多不少 18437736874454810627（2^64−2^53+3） 个values。
