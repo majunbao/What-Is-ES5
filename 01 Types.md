@@ -1,6 +1,6 @@
 ## 你是根据什么规范版本写的这些？
-* ECMAScript 5.1 版本
-* 在这里可以访问它：[https://es5.github.io/#x8](https://es5.github.io/#x8)
+* ECMAScript 6.0 版本
+* 在这里可以访问它：[http://www.ecma-international.org/ecma-262/6.0/](http://www.ecma-international.org/ecma-262/6.0/)
 
 ## 什么是 Types ？
 * 在ECMAScript规范中操作values（值）的每个算法都有相关联的type。这些可能的value types都定义在了这个规范中。
